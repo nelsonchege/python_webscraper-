@@ -1,4 +1,4 @@
-# python_webscraper-
+# python_webscraper
 simple script that scraps imdb site and randomly select a movie, used this project to practice docker
 
 to be able to use docker you must install docker to your pc 
